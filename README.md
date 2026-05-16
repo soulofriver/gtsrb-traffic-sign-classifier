@@ -115,7 +115,7 @@ Model performance was evaluated using:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Grad-CAM explainability (visual attention maps)
 - Real-time webcam detection
