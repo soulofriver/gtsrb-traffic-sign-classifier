@@ -12,7 +12,7 @@ This project demonstrates:
 - Image preprocessing and augmentation
 - CNN model training
 - Model evaluation and visualization
-- Real-time inference using Streamlit
+- Real-time prediction on uploaded images
 
 ---
 
