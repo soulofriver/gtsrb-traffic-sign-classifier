@@ -64,9 +64,13 @@ Run Streamlit app
 streamlit run app.py
 
 Project Structure:
+
 ├── app.py                     # Streamlit web application
+
 ├── traffic_sign_model.keras  # Trained CNN model
+
 ├── notebook.ipynb            # Model training notebook
+
 ├── README.md                 # Project documentation
 
 ---
