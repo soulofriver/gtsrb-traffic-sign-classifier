@@ -81,7 +81,6 @@ Project Structure:
 - TensorFlow / Keras
 - OpenCV
 - NumPy
-- Pandas
 - Matplotlib
 - Scikit-learn
 - Streamlit
